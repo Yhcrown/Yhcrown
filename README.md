@@ -1,4 +1,4 @@
-<img src="C:\Users\Yhcrown\AppData\Roaming\Typora\typora-user-images\image-20220527231947148.png" alt="image-20220527231947148" style="zoom: 67%;" />
+<img src="https://raw.githubusercontent.com/Yhcrown/imgbed/main/img/image-20220527231947148.png" alt="image-20220527231947148" style="zoom: 67%;" />
 
 
 
