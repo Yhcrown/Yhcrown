@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/Yhcrown/imgbed/main/img/image-20220527231947148.png" alt="image-20220527231947148" style="zoom: 15%;" />
+<img src="https://raw.githubusercontent.com/Yhcrown/imgbed/main/img/image-20220527231947148.png" alt="image-20220527231947148"  />
 
 
 
@@ -6,7 +6,7 @@
 
 ![](https://raw.githubusercontent.com/Yhcrown/Yhcrown/main/assets/github-contribution-grid-snake.svg)
 
-I’m Yhcrown, a CS rookie from **Southern University of Science and Technology.** I
+I’m Yhcrown, a CS rookie from **Southern University of Science and Technology.** 
 
 - 🔭 I’m currently working on class project. 
 - 🌱 I’m currently learning program analysis. 
