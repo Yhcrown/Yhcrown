@@ -6,12 +6,11 @@
 
 ![](https://raw.githubusercontent.com/Yhcrown/Yhcrown/main/assets/github-contribution-grid-snake.svg)
 
-I’m Yhcrown, a CS rookie from **Southern University of Science and Technology.** 
+
 
 - 🔭 I’m currently working on class project. 
 - 🌱 I’m currently learning program analysis. 
 - 🤔 I’m looking for help with ebpf. 
-- ⚡ welcome to www.yhcljf.com. 
 
 
 
